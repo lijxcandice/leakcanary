@@ -1,0 +1,4 @@
+<manifest
+    package="com.squareup.leakcanary.watcher">
+    <application/>
+</manifest>

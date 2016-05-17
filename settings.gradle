@@ -1,0 +1,1 @@
+include ':app', ':leakcanary-watcher', ':leakcanary-android-no-op', ':leakcanary-analyzer', ':leakcanary-android'
